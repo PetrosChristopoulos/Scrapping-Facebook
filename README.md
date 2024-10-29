@@ -1,2 +1,3 @@
 # Scrapping-Facebook
-We will do a project based on Web Scrapping on Facebook. The project is as follows, we need to look back at the last 100 posts of a particular user and see the number of likes on those posts. Create a list of those data. Also, we will need to get a list of all the names (or usernames) that had clicked Like on those last 100 posts and calculate the frequencies with which a user (who belongs in the list) hits the Like button for each person that hits the Like button
+The project is about (Web) Scrapping Facebook. The idea is:  
+we need to look back at the last 100 posts of a particular user and see the number of likes on those posts. Create a list of those data. Also, we need to get a list of all the names (or facebook usernames) that had clicked the Like button, for a particular (pre defined) number of posts, and calculate the frequency a user (who belongs in the list) hits the Like button.
